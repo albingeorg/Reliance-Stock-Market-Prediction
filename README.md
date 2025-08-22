@@ -59,7 +59,7 @@ pip install -r requirements.txt
 # Deployment:
 
 - The project is deployed using Streamlit, allowing users to interact with the model and make stock price predictions based on historical data.
-- The deployment version of the project is accessible through a provided link :[Project](https://rajveersinghcse-reliance-stock-market-prediction.streamlit.app/)
+
 
 # Running the Project:
 
@@ -72,3 +72,4 @@ streamlit run app.py
 <p align="center">
 <b>Enjoy Coding</b>❤
 </p>
+
